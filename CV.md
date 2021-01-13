@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-Some info.
+This and that.
