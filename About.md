@@ -1,3 +1,5 @@
 layout: page
-title: About
-permalink: http://vvbrs.github.io/About
+title: "About"
+permalink: /About/
+
+Some info.
