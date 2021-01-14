@@ -8,5 +8,5 @@ Some *text* and [link to Google!](http://google.com)
 
 # Contact
 
-### [LinkedIn](https://www.linkedin.com/in/vivianbaars/) [GitHub](https://github.com/vvbrs) [Mail](mailto:vivianbaars@gmail.com)
+### [Mail](mailto:vivianbaars@gmail.com) [LinkedIn](https://www.linkedin.com/in/vivianbaars/) [GitHub](https://github.com/vvbrs)
 
