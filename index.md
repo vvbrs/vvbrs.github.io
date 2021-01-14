@@ -14,11 +14,15 @@ Currently, I am researching the occupational stratification of the Netherlands a
 - Bikepacking
 - Running
 
+***
+
 # CV
 
 You can find my CV [here](CV-VB.pdf).
 
+***
+
 # Contact
 
-[Mail](mailto:vivianbaars@gmail.com)[LinkedIn](https://www.linkedin.com/in/vivianbaars/)[GitHub](https://github.com/vvbrs)
+[Mail](mailto:vivianbaars@gmail.com)   [LinkedIn](https://www.linkedin.com/in/vivianbaars/)   [GitHub](https://github.com/vvbrs)
 
