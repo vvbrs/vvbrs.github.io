@@ -1,5 +1,5 @@
 ---
-layout: page
+type: "pages"
 title: About
 permalink: /about.md/
 ---
