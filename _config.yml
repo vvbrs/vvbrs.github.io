@@ -2,4 +2,4 @@ theme: jekyll-theme-minimal
 title: Vivian Baars
 description: Methodologist | Sociologist | Statistician (to-be)
 logo: "/Picture VB.png"
-show_downloads: "false"
+show_downloads: "true"
