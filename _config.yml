@@ -4,3 +4,5 @@ description: Methodologist | Sociologist | Statistician (to-be)
 logo: "/Picture VB.png"
 github_username: vvbrs
 email: vivianbaars@gmail.com
+github:
+  is_project_page: false
