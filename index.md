@@ -18,7 +18,7 @@ Currently, I am researching the occupational stratification of the Netherlands a
 
 # CV
 
-You can find my CV [here](./CV-VB.pdf/).
+You can find my CV [here](CV-VB.pdf).
 
 ***
 
